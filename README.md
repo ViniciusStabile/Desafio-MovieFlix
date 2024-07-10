@@ -20,3 +20,15 @@ Este projeto implementa funcionalidades para o sistema Movieflix, permitindo aos
 
 - **Cenário:** O usuário tenta enviar uma avaliação com texto vazio.
 - **Saída:** O sistema exibe uma mensagem informando que não é permitido texto vazio na avaliação.
+
+- ## Tecnologias Utilizadas
+- Java
+- Spring Boot
+- JPA/Hibernate
+- Maven
+- JUnit
+
+## Ferramentas Utilizadas
+
+- Spring Tool Suite 4 
+- Postman (para testar APIs)
